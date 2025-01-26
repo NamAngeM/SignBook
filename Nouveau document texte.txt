@@ -4,3 +4,5 @@ service_role key: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsI
 
 Key: MyAppKey
 Value: fnAF2DfUFlAA0B-EmLURLlbzYNSMDmJShYppWSu1
+
+implements les fonctionnalites pour les fichier pageViexs .tsx et index.tsx du dossier DocumentViewer
